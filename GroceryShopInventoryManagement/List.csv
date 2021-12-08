@@ -1,0 +1,16 @@
+﻿pid,pname,quantity,stock,type,cp,sp
+5001,Real Mango Juice,1L,100,Soft Drink,75,90
+5002,Tropicana Orange Juice,1L,33,Soft Drink,75,92
+5003,MTR Gulab Jamun,500gm,15,Sweet,100,130
+5004,Pillsbury Chakki Fresh atta,1KG,20,ATTA,60,70
+5005,Madhur Sugar,1KG,50,sugar,60,70
+5006,Bru Coffee Power,250gms,50,coffee power,140,150
+5007,Nescafe sunrise,100gms,20,coffee power,100,120
+5008,Boost,500gms,25,health drink,220,234
+5009,Amul butter ,100gms,15,butter,80,90
+5010,Nestle maggi,250gms/12x70,28,noodles,120,130
+5011,Kissan Jam,490gms,16,jam,150,160
+5012,Dabur honey,1.2kg,10,honey,380,395
+5013,Heritage long life milk,500ml,15,milk,25,27
+5014,Diary Milk,130gms,15,chocolate,95,100
+5015,Kissan Ketchup,200gms,35,ketchup,55,60

@@ -1,0 +1,19 @@
+{
+  "name": "groceryshopinventorymanagementsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+	"serve": "nodemon server.js"
+  },
+  "author": "VINEETH REDDY",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6",
+    "nodemon": "^2.0.7"
+  }
+}
